@@ -1,0 +1,27 @@
+{
+  "name": "miniprojects",
+  "version": "1.0.0",
+  "description": "mini projects ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jecrs687/miniProjects.git"
+  },
+  "keywords": [
+    "miniproject",
+    "miniprojects",
+    "web"
+  ],
+  "author": "Jecrs687",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jecrs687/miniProjects/issues"
+  },
+  "homepage": "https://github.com/jecrs687/miniProjects#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
