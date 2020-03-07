@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d7506d64bd3a7f3c4921bfa44bb454dc",
+    "revision": "d835c993a401f2da41417ec6a92ffcc7",
     "url": "/miniProjects/border-creator/index.html"
   },
   {
-    "revision": "ede353204eb3fca75740",
+    "revision": "2a7efd513e432011cc96",
     "url": "/miniProjects/border-creator/static/css/main.976d89ce.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/miniProjects/border-creator/static/js/2.aff4dedf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ede353204eb3fca75740",
-    "url": "/miniProjects/border-creator/static/js/main.3d47255e.chunk.js"
+    "revision": "2a7efd513e432011cc96",
+    "url": "/miniProjects/border-creator/static/js/main.b51f3469.chunk.js"
   },
   {
     "revision": "bfe23879dffa3901878d",

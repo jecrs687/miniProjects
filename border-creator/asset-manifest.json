@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/miniProjects/border-creator/static/css/main.976d89ce.chunk.css",
-    "main.js": "/miniProjects/border-creator/static/js/main.3d47255e.chunk.js",
-    "main.js.map": "/miniProjects/border-creator/static/js/main.3d47255e.chunk.js.map",
+    "main.js": "/miniProjects/border-creator/static/js/main.b51f3469.chunk.js",
+    "main.js.map": "/miniProjects/border-creator/static/js/main.b51f3469.chunk.js.map",
     "runtime-main.js": "/miniProjects/border-creator/static/js/runtime-main.f39c4d96.js",
     "runtime-main.js.map": "/miniProjects/border-creator/static/js/runtime-main.f39c4d96.js.map",
     "static/js/2.aff4dedf.chunk.js": "/miniProjects/border-creator/static/js/2.aff4dedf.chunk.js",
     "static/js/2.aff4dedf.chunk.js.map": "/miniProjects/border-creator/static/js/2.aff4dedf.chunk.js.map",
     "index.html": "/miniProjects/border-creator/index.html",
-    "precache-manifest.ae77267348b0b481b72403340a880ee9.js": "/miniProjects/border-creator/precache-manifest.ae77267348b0b481b72403340a880ee9.js",
+    "precache-manifest.08a2770fc5ad9794e70f15626a3dd3d7.js": "/miniProjects/border-creator/precache-manifest.08a2770fc5ad9794e70f15626a3dd3d7.js",
     "service-worker.js": "/miniProjects/border-creator/service-worker.js",
     "static/css/main.976d89ce.chunk.css.map": "/miniProjects/border-creator/static/css/main.976d89ce.chunk.css.map",
     "static/js/2.aff4dedf.chunk.js.LICENSE.txt": "/miniProjects/border-creator/static/js/2.aff4dedf.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f39c4d96.js",
     "static/js/2.aff4dedf.chunk.js",
     "static/css/main.976d89ce.chunk.css",
-    "static/js/main.3d47255e.chunk.js"
+    "static/js/main.b51f3469.chunk.js"
   ]
 }
