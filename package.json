@@ -1,10 +1,12 @@
 {
+  "homepage":"https://jecrs687.github.io/miniProjects/border-creator/",
   "name": "miniprojects",
   "version": "1.0.0",
   "description": "mini projects ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy":"(cd border_creator) && (npm run build) && (cd ..) && (node post.js)"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.App .css{
+height: 12rem;
+width: 16rem;
+padding: 10px;
+font-weight: 700;
+text-align: left;
+border: 1px black solid ;
+background-color: #ddd;
+margin:20px;
+}
+.App .main{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+.App .main .border{
+  margin-top: 5vmin;
+  height: 40vmin;
+  width: 40vmin;
+  background-color: blue;
+}
+.App .main .controls{
+  display: flex;  
+  margin-top: 10px;
+  flex-direction: column;
+}
+.App .main .controls .grid{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+}
+.App .main .controls .control{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.App .main .controls .control p{
+  font-size: large;
+  font-weight: 800;
+}
+.App .main .controls .control .slider{
+  -webkit-appearance: none;
+  width: 70%;
+  height: 25px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+.App .main .controls .control .slider:hover {
+  opacity: 1;
+}
+
+.App .main .controls .control .slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  border-radius:100px;
+  width: 30px;
+  height: 30px;
+  background: #4CAF50;
+  cursor: pointer;
+}
+
+.App .main .controls .control .slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  background: #4CAF50;
+  cursor: pointer;
+}
+@media screen and (max-width:600px){
+.App{
+  flex-direction: column-reverse;
+}
+}
