@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/miniProjects/static/border-creator/static/css/main.976d89ce.chunk.css",
-    "main.js": "/miniProjects/static/border-creator/static/js/main.64efae49.chunk.js",
-    "main.js.map": "/miniProjects/static/border-creator/static/js/main.64efae49.chunk.js.map",
-    "runtime-main.js": "/miniProjects/static/border-creator/static/js/runtime-main.6ab55163.js",
-    "runtime-main.js.map": "/miniProjects/static/border-creator/static/js/runtime-main.6ab55163.js.map",
-    "static/js/2.aff4dedf.chunk.js": "/miniProjects/static/border-creator/static/js/2.aff4dedf.chunk.js",
-    "static/js/2.aff4dedf.chunk.js.map": "/miniProjects/static/border-creator/static/js/2.aff4dedf.chunk.js.map",
-    "index.html": "/miniProjects/static/border-creator/index.html",
-    "precache-manifest.e345905180ef8541e69c5e842e5862b1.js": "/miniProjects/static/border-creator/precache-manifest.e345905180ef8541e69c5e842e5862b1.js",
-    "service-worker.js": "/miniProjects/static/border-creator/service-worker.js",
-    "static/css/main.976d89ce.chunk.css.map": "/miniProjects/static/border-creator/static/css/main.976d89ce.chunk.css.map",
-    "static/js/2.aff4dedf.chunk.js.LICENSE.txt": "/miniProjects/static/border-creator/static/js/2.aff4dedf.chunk.js.LICENSE.txt"
+    "main.css": "/miniProjects/border-creator/static/css/main.976d89ce.chunk.css",
+    "main.js": "/miniProjects/border-creator/static/js/main.3d47255e.chunk.js",
+    "main.js.map": "/miniProjects/border-creator/static/js/main.3d47255e.chunk.js.map",
+    "runtime-main.js": "/miniProjects/border-creator/static/js/runtime-main.f39c4d96.js",
+    "runtime-main.js.map": "/miniProjects/border-creator/static/js/runtime-main.f39c4d96.js.map",
+    "static/js/2.aff4dedf.chunk.js": "/miniProjects/border-creator/static/js/2.aff4dedf.chunk.js",
+    "static/js/2.aff4dedf.chunk.js.map": "/miniProjects/border-creator/static/js/2.aff4dedf.chunk.js.map",
+    "index.html": "/miniProjects/border-creator/index.html",
+    "precache-manifest.9d2fe8d7054dd29e85daca3d64cfbe86.js": "/miniProjects/border-creator/precache-manifest.9d2fe8d7054dd29e85daca3d64cfbe86.js",
+    "service-worker.js": "/miniProjects/border-creator/service-worker.js",
+    "static/css/main.976d89ce.chunk.css.map": "/miniProjects/border-creator/static/css/main.976d89ce.chunk.css.map",
+    "static/js/2.aff4dedf.chunk.js.LICENSE.txt": "/miniProjects/border-creator/static/js/2.aff4dedf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ab55163.js",
+    "static/js/runtime-main.f39c4d96.js",
     "static/js/2.aff4dedf.chunk.js",
     "static/css/main.976d89ce.chunk.css",
-    "static/js/main.64efae49.chunk.js"
+    "static/js/main.3d47255e.chunk.js"
   ]
 }
