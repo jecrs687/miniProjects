@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/miniProjects/border-creator/precache-manifest.9d2fe8d7054dd29e85daca3d64cfbe86.js"
+  "/miniProjects/border-creator/precache-manifest.ae77267348b0b481b72403340a880ee9.js"
 );
 
 self.addEventListener('message', (event) => {

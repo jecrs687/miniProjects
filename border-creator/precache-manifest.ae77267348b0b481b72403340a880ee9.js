@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ada87071a650b0411ea1f5380a4e7be",
+    "revision": "d7506d64bd3a7f3c4921bfa44bb454dc",
     "url": "/miniProjects/border-creator/index.html"
   },
   {
