@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.976d89ce.chunk.css",
-    "main.js": "/static/js/main.9556bb23.chunk.js",
-    "main.js.map": "/static/js/main.9556bb23.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.02b65fd8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.02b65fd8.js.map",
-    "static/js/2.aff4dedf.chunk.js": "/static/js/2.aff4dedf.chunk.js",
-    "static/js/2.aff4dedf.chunk.js.map": "/static/js/2.aff4dedf.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5c6abf0adaf78e6e3575dd4232759559.js": "/precache-manifest.5c6abf0adaf78e6e3575dd4232759559.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.976d89ce.chunk.css.map": "/static/css/main.976d89ce.chunk.css.map",
-    "static/js/2.aff4dedf.chunk.js.LICENSE.txt": "/static/js/2.aff4dedf.chunk.js.LICENSE.txt"
+    "main.css": "/miniProjects/static/border-creator/static/css/main.976d89ce.chunk.css",
+    "main.js": "/miniProjects/static/border-creator/static/js/main.64efae49.chunk.js",
+    "main.js.map": "/miniProjects/static/border-creator/static/js/main.64efae49.chunk.js.map",
+    "runtime-main.js": "/miniProjects/static/border-creator/static/js/runtime-main.6ab55163.js",
+    "runtime-main.js.map": "/miniProjects/static/border-creator/static/js/runtime-main.6ab55163.js.map",
+    "static/js/2.aff4dedf.chunk.js": "/miniProjects/static/border-creator/static/js/2.aff4dedf.chunk.js",
+    "static/js/2.aff4dedf.chunk.js.map": "/miniProjects/static/border-creator/static/js/2.aff4dedf.chunk.js.map",
+    "index.html": "/miniProjects/static/border-creator/index.html",
+    "precache-manifest.e345905180ef8541e69c5e842e5862b1.js": "/miniProjects/static/border-creator/precache-manifest.e345905180ef8541e69c5e842e5862b1.js",
+    "service-worker.js": "/miniProjects/static/border-creator/service-worker.js",
+    "static/css/main.976d89ce.chunk.css.map": "/miniProjects/static/border-creator/static/css/main.976d89ce.chunk.css.map",
+    "static/js/2.aff4dedf.chunk.js.LICENSE.txt": "/miniProjects/static/border-creator/static/js/2.aff4dedf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.02b65fd8.js",
+    "static/js/runtime-main.6ab55163.js",
     "static/js/2.aff4dedf.chunk.js",
     "static/css/main.976d89ce.chunk.css",
-    "static/js/main.9556bb23.chunk.js"
+    "static/js/main.64efae49.chunk.js"
   ]
 }
