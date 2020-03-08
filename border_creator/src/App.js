@@ -6,9 +6,11 @@ function App() {
   const [radius,setRadius] = useState(10);
   const [type,setType]   = useState('solid');
   const [type2,setType2] = useState('solid');
-  const [type3,setType3] = useState('double');
-  const [type4,setType4] = useState('double');
+  const [type3,setType3] = useState('solid');
+  const [type4,setType4] = useState('solid');
   const [color,setColor] = useState('#111111');
+  const [background,setBackground] = useState('#f1f');
+
   return (
     <div className="App">
       <div  className="css-box">
@@ -20,7 +22,7 @@ function App() {
         </div>
       </div>
       <div className="main">
-        <div className="border" style={{borderColor:`${color}`,borderWidth:`${width}px`, borderStyle:`${type} ${type2} ${type3} ${type4}`, borderRadius:`${radius}px`} }/>
+        <div className="border" style={{backgroundColor:`${background}`,borderColor:`${color}`,borderWidth:`${width}px`, borderStyle:`${type} ${type2} ${type3} ${type4}`, borderRadius:`${radius}px`} }/>
         <div className="controls">
             <div className="control">
               <p>width</p>
@@ -95,6 +97,10 @@ function App() {
             <div className="control">
               <p>Color</p>
               <input onInput={(value)=>{setColor(value.currentTarget.value)}} style={{background:`${color}`,color:color==='#111' || color === '#111111'? 'white':'black'}} value={color} type='text'/>
+            </div>
+            <div className="control">
+              <p>Background</p>
+              <input onInput={(value)=>{setBackground(value.currentTarget.value)}} style={{background:`${background}`,color:background==='#111' || background === '#111111'? 'white':'black'}} value={background} type='text'/>
             </div>
           </div>
       </div>

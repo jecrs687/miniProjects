@@ -1,6 +1,6 @@
 {
-  "name": "border_creator",
-  "homepage": "https://jecrs687.github.io/miniProjects/border-creator/",
+  "name": "box-shadow-generator",
+  "homepage": "https://jecrs687.github.io/miniProjects/box-shadow-generator/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
