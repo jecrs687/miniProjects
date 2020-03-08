@@ -1,0 +1,41 @@
+.App{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+.body{
+  padding-top: 10rem;
+  align-self: stretch;
+  align-items: center;
+  display:flex;
+  flex-direction: column;  
+}
+p{
+  font-size: x-large;
+  font-weight: 600;
+  margin: 10px;
+
+}
+.box-input{
+  margin-bottom: 4rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+input{
+  width: max-content;
+  font-size: large;
+  font-weight: 600;
+  padding: 10px;
+  height: 4rem;
+}
+.box-output{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+.output{
+  margin-left: auto;
+}

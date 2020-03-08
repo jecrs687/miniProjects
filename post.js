@@ -1,8 +1,8 @@
 var ghpages = require('gh-pages');
- 
-ghpages.publish('box-shadow-generator/build', {
+
+ghpages.publish('bin2dec/build', {
     repo: 'https://github.com/jecrs687/miniProjects.git',
     message: 'Auto-generated commit with gh-pages',
-    dest: 'box-shadow-generator',
+    dest: 'bin2dec',
     branch:'gh-pages'
   }, function(err) {console.log(err)});
