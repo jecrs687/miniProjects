@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.431e6229.chunk.js",
-    "main.js.map": "/static/js/main.431e6229.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a31f093a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a31f093a.js.map",
-    "static/js/2.c8ca8666.chunk.js": "/static/js/2.c8ca8666.chunk.js",
-    "static/js/2.c8ca8666.chunk.js.map": "/static/js/2.c8ca8666.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fa2ea3187fc0a82e920a96df9b86979d.js": "/precache-manifest.fa2ea3187fc0a82e920a96df9b86979d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.c8ca8666.chunk.js.LICENSE.txt": "/static/js/2.c8ca8666.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/miniProjects/box-shadow-generator/static/css/main.5253bce0.chunk.css",
+    "main.js": "/miniProjects/box-shadow-generator/static/js/main.4ff5ebfc.chunk.js",
+    "main.js.map": "/miniProjects/box-shadow-generator/static/js/main.4ff5ebfc.chunk.js.map",
+    "runtime-main.js": "/miniProjects/box-shadow-generator/static/js/runtime-main.55d20857.js",
+    "runtime-main.js.map": "/miniProjects/box-shadow-generator/static/js/runtime-main.55d20857.js.map",
+    "static/js/2.0baf5aa8.chunk.js": "/miniProjects/box-shadow-generator/static/js/2.0baf5aa8.chunk.js",
+    "static/js/2.0baf5aa8.chunk.js.map": "/miniProjects/box-shadow-generator/static/js/2.0baf5aa8.chunk.js.map",
+    "index.html": "/miniProjects/box-shadow-generator/index.html",
+    "precache-manifest.a009995e90422621ede16ba310ad2cdf.js": "/miniProjects/box-shadow-generator/precache-manifest.a009995e90422621ede16ba310ad2cdf.js",
+    "service-worker.js": "/miniProjects/box-shadow-generator/service-worker.js",
+    "static/css/main.5253bce0.chunk.css.map": "/miniProjects/box-shadow-generator/static/css/main.5253bce0.chunk.css.map",
+    "static/js/2.0baf5aa8.chunk.js.LICENSE.txt": "/miniProjects/box-shadow-generator/static/js/2.0baf5aa8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a31f093a.js",
-    "static/js/2.c8ca8666.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.431e6229.chunk.js"
+    "static/js/runtime-main.55d20857.js",
+    "static/js/2.0baf5aa8.chunk.js",
+    "static/css/main.5253bce0.chunk.css",
+    "static/js/main.4ff5ebfc.chunk.js"
   ]
 }
