@@ -1,5 +1,6 @@
 {
   "name": "bin2dec",
+  "homepage": "https://jecrs687.github.io/miniProjects/bin2dec/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

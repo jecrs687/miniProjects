@@ -25,6 +25,7 @@ function App() {
   return (
     <div cslassName="App"> 
       <div className="body">
+      <h1>Binary to decimal</h1>
         <div className="box-input">
           <p>Binary:</p>
           <input value={binary} onChange={(data)=>{inputBinary(data.currentTarget.value)}}/>
