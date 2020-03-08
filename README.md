@@ -8,6 +8,6 @@
 <a href='https://jecrs687.github.io/miniProjects/box-shadow-generator/'>box shadow generator</a>
   </li>
    <li>
-<a href='https://jecrs687.github.io/miniProjects/bin2decr/'>bin2dec</a>
+<a href='https://jecrs687.github.io/miniProjects/bin2dec/'>bin2dec</a>
   </li>
  </ul>
