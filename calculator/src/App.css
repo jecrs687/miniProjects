@@ -1,0 +1,84 @@
+.App{
+  flex: 1;
+  height: 100vh;
+  display: flex;
+  background-color: aqua;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10vh;
+}
+.calculator{
+  background-color: #111;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: gray 5px 5px 10px ;
+}
+.calculator .box-operatorBody{
+  display: flex;
+}
+.box-operator{
+  background-color: aliceblue;
+  text-align: center;
+  font-size: larger;
+  font-weight: 600;
+  margin: 5px;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 1rem;
+  filter: brightness(100%);
+  transition: filter 200ms ease;
+}
+.box-operator:hover{
+  cursor: pointer;
+  filter: brightness(40%);
+}
+
+.calculator .box-operatorBody .box-operatorBodyLeft {
+  display: flex;
+  flex-direction: column;
+  
+}
+.calculator .box-operatorBody .box-operatorBodyLeft .box-operatorHeader{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
+.calculator .box-operatorBody .box-operatorBodyLeft .box-operatorHeader .box-operator{
+  background-color: #bbb;
+}
+.calculator .box-operatorBody .box-operatorBodyLeft .box-operatorNumbers{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
+.calculator .box-operatorBody .box-operatorBodyLeft .box-operatorNumbers .box-operator{
+  background-color: #333;
+  color:white
+
+}
+.calculator .box-operatorBody .box-operatorBodyLeft .box-operatorNumbers .box-operator:nth-last-child(2){
+width: auto;
+}
+
+.calculator .box-operatorHeader .box-operatorBodyLeft{
+  display: grid;
+}
+
+.calculator .box-operatorBodyRight{
+  display: grid;
+  grid-template-rows: repeat(4,1fr);
+
+}
+.calculator .box-operatorBodyRight .box-operator{
+  background-color: rgb(255, 174, 0);
+  color:white
+}
+input{
+  padding: 5px;
+  height: 3rem;
+  margin-bottom: 20px;
+  background-color: #333;
+  border: none;
+  width: 10rem;
+  color: white;
+  text-align: right;
+  font-size: large;
+}

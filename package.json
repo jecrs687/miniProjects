@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy":"(cd bin2dec) && npm run build && cd .. && node post.js"
+    "deploy":"(cd calculator) && npm run build && cd .. && node post.js"
   },
   "repository": {
     "type": "git",
